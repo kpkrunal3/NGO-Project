@@ -1,0 +1,32 @@
+.contact{
+	height:500px;
+	width:100%;
+	float:left;
+}
+.contact1{
+	height:505px;
+	width:100%;
+	clear:both;
+}
+.contact2{
+	height:100px;
+	width:500px;
+	float:left;
+	margin-left:120px;
+	font-family:Arial Rounded MT Bold;
+	font-size:28px;
+	color:#494949;
+	line-height:93px;
+}
+.contact3{
+	height:20px;
+	width:500px;
+	clear:both;
+	margin-left:120px;
+	font-family:Arial Rounded MT Bold;
+}
+.contact4{
+	clear:both;
+	margin-left:120px;
+	
+}

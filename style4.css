@@ -1,0 +1,45 @@
+.gallary{
+	height:180px;
+	width:100%;
+	background:url('img/page-title-background.jpg');
+	background-repeat:no-repeat;
+	background-size:100% 180px;
+	float:left;
+}
+.gallary1{
+	height:50px;
+	width:500;
+	font-family:Arial Rounded MT Bold;
+	color:white;
+	font-size:35px;
+	margin:78px 0px 0px 120px;
+	float:left;
+}
+.gal{
+	height:917px;
+	width:100%;
+	clear:both;
+}
+.gal1{
+	height:80px;
+	width:800px;
+	border-bottom:3px solid #494949;
+	float:left;
+	margin-left:120px;
+	font-family:Arial Rounded MT Bold;
+	font-size:28px;
+	line-height:97px;
+	color:#494949;
+}
+.gae{
+	height:816px;
+	width:1112px;
+	clear:both;
+	margin:100px 0px 0px 120px;
+}
+.gae1{
+	height:250px;
+	width:358px;
+	margin:10px 10px 10px 0px;
+	float:left;
+}

@@ -1,0 +1,109 @@
+.what-1{
+	height:350px;
+	width:100%;
+	background:url('img/whatwedo-title-bg.jpg');
+	background-repeat:no-repeat;
+	float:left;
+}
+.what-2{
+	height:100px;
+	width:500px;
+	float:left;
+	margin-left:120px;
+	margin-top:110px;
+	color:white;
+	font-size:58px;
+}
+.what-3{
+	height:100px;
+	width:740px;
+	clear:both;
+	margin-left:120px;
+	color:white;
+	font-size:34px;
+}
+.wrapp0{
+	height:535px;
+	width:100%;
+	float:left;
+	background-color:#f5f5f5;
+}
+.miloni{
+	height:500px;
+	width:100%;
+	float:left;
+	margin-top:100px;
+}
+.miloni-1{
+	height:430px;
+	width:429px;
+	float:left;
+	background:url('img/world.png');
+	background-repeat:no-repeat;
+	margin-left:110px;
+	margin-top:34px;
+}
+.miloni-2{
+	height:500px;
+	width:700px;
+	float:left;
+	margin-left:100px;
+}
+.miloni-3{
+	height:50px;
+	width:700px;
+	float:left;
+	color:#4f4f4f;
+	font-size:35px;
+	font-family:Batang;
+	margin-top:100px;
+}
+.miloni-4{
+	height:50px;
+	width:700px;
+	float:left;
+	color:#636363;
+	font-size:20px;
+	font-family:Batang;
+}
+.miloni-5{
+	height:150px;
+	width:700px;
+	float:left;
+	color:#636363;
+	text-align:justify;
+	font-family:Book Antiqua;
+}
+.miloni-6{
+	height:50px;
+	width:700px;
+	float:left;
+	margin-top:20px;
+}
+.hetal{
+	height:270px;
+	width:100%;
+	float:left;
+	background:url('img/whatwedo-stunning-bg.jpg');
+	background-repeat:no-repeat;
+}
+.hetal1{
+	height:64px;
+	width:1000px;
+	margin:auto;
+	color:white;
+	font-family:Arial Rounded MT Bold;
+	font-size:50px;
+	text-align:center;
+	margin-top:40px;
+}
+.hetal2{
+	height:64px;
+	width:1110px;
+	margin:auto;
+	color:white;
+	font-family:Arial Rounded MT Bold;
+	font-size:20px;
+	text-align:center;
+	margin-top:40px;
+}
